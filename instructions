@@ -1,0 +1,13 @@
+Vehicle Class-
+
+Attributes:
+make, model, type (car, truck, SUV), gas tank size, fuel level
+
+Functions:
+Constructor
+
+fill up - fills the fuel tank to the tank size.
+
+drive - returns a statement indicating the vehicle is driving
+
+get gas - receives the amount of fuel to add to the fuel level.  Will it fit?  Return a statement indicating that the fuel fit or if there was extra
